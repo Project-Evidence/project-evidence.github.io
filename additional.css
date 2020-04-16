@@ -1,0 +1,10 @@
+.tocset {
+  position: fixed !important;
+  height: 100vh !important;
+  padding-top: 25px !important;
+  overflow: scroll !important;
+}
+
+.tocsub {
+  padding-bottom: 40px !important;
+}
