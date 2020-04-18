@@ -1,3 +1,23 @@
+The worldwide effort in responding to the nCov19 pandemic dwarfs prior vaccine research efforts. There are reports from China which include patents (https://www.smartpatients.com/trials/NCT04276896#lv-dc-vaccine-or-antigen-specific-cytotoxic-t-cells) and entries into national drug trial databases that they applied for trials in February. Notably in February the Shenzhen Geno-Immune Medical Institute filed a patent for a nCov19 'Minigene' vaccine under the title 'Phase I/II Multicenter Trial of DC Vaccine and Antigen-specific Cytotoxic T Cells in the Treatment of New Coronavirus (SARS-CoV-2) Infections'. It is worth focusing in on the fact that this trial uses a vector vaccine technique which triggers dendritc cells with specific portions of nCov19 to carry the real antigens to the T-Cells for destruction. What this means is that a virus which was deemed not able to spread between humans as late as mid-January could have been under investigation for some time in a lab even prior to disclosure in the nucleotide databases which occurred on or around January 10th. Typical vaccine development takes on average 10 years. https://www.nature.com/articles/d41573-020-00073-5
+
+In February 2020 the Shenzhen Geno-Immune Medical Institute filed a patent for a nCov19 'Minigene' vaccine under the title 'Phase I/II Multicenter Trial of DC Vaccine and Antigen-specific Cytotoxic T Cells in the Treatment of New Coronavirus (SARS-CoV-2) Infections'. https://clinicaltrials.gov/ct2/show/NCT04276896
+
+Other trials in China have reached Phase 2 as of April 10th in China (NCT04341389). This means Phase 1 has been accomplished, furthering curiosity about the interesting speed at which the typical 10 yearlong vaccine development process has experienced this mysterious step change. Could it be that much more was known about the proteins and other key parts of nCov19 prior to what has been openly disclosed?https://clinicaltrials.gov/ct2/show/NCT04341389
+
+Phase 1 trials are typically done to discover the maximum dosage which candidates are able to handle. Phase 2 measures the effectiveness of the dosing by looking for antibody titers in particular the SARS-CoV-2 S antibody response with an enzyme-linked immunosorbent assay (ELISA). The vector vaccine has begun phase two of clinical trials, while the inactivated ones have entered phase one.
+
+China seems to have had an amazing head start with a step change orders of magnitude faster than has ever been done before. If you put all vaccine development timelines into a machine learning/clustering algorithm, surely these timelines would be thrown out since they are very much outside the cluster where typical development timelines would fall. Perhaps the head start was because the virus was being examined prior to what is being disclosed. I'm sure many would like to know.
+
+
+
+
+
+
+
+
+
+
+
 You might be interested in going through these archives:
 
 Avian Flu Diary and Flu Trackers
