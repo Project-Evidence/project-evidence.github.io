@@ -113,8 +113,6 @@ In Claim 1, we proved that it is highly probable that SARS-CoV-2 could have been
 
     From the same ECNS article in the previous section:
 
-    @margin-note{We are looking for contributors who can read Mandarin to help us find and translate the original article from @italic{The Paper} that details the arrest of the 'top academician'.}
-
     @centered{
         Medical staff and experts have long been asking for better regulation and supervision of biological research institutes in China, but with mixed results. 
 
@@ -123,7 +121,18 @@ In Claim 1, we proved that it is highly probable that SARS-CoV-2 could have been
         Li Ning, a leading expert at transgenic technologies at China Agricultural University, was sentenced to 12 years in prison on January 2 for grafting 37.56 million yuan.  
     }
 
-    @bold{Author's Note: "Li Ning" and the "top academician" appear to be two different people. Li Ning was sentenced to prison for allegedly embezzling research grant funds.}
+    Here is the referenced report.
+
+    @snippet[
+        "Strengthening the legislation of laboratory animals and perfecting the law of animal protection"
+        "March 11, 2020"
+        "https://www.thepaper.cn/newsDetail_forward_6452010"
+        "https://archive.is/gmpi5"
+    ]{
+        "Li Ning and Zhang Lei first-instance criminal verdict for corruption" showed that from July 2008 to February 2012, the research group chaired by Li Ning, a former academician of the Chinese Academy of Engineering and a professor of China Agricultural University, used scientific research funds to purchase the pigs and cattle needed for the experiment. After the end [of the experiment], the obsolete experimental recipients pigs, cows and milk were sold through the relevant companies and pig farms, and the accumulated proceeds of more than 10.17 million yuan were not handed in.
+
+        Page translated to English via Google Translate. Words in [brackets] were inserted by us.
+    }
 
     The academician's arrest shows that the regulations concerning lab safety were either too lacking or not properly enforced and enable a bad actor to put many others in danger for their own profit. The new biosafety rules were likely put in place to rectify these deficiencies.
 
