@@ -1,0 +1,81 @@
+#lang scribble/manual
+
+@(require "../snippet.scrbl")
+
+@title[#:tag "guokefaji236"]{Guoke Faji (2019) 236}
+
+On July 11, 2019, China's Ministry of Science and Technology invited bids for the project @hyperlink["http://archive.is/HA9ql#selection-967.0-975.191"]{"Scientific survey of the principal natural viral pathogen resources in China"}, to be financed with part of a ¥300m fund. Online applications were due by September 9, and relevant paperwork due by September 13, 2019.
+
+Winners of the project were required to identify five major novel viral pathogens from wild animals including bats, and carry out biosecurity risk assessments by testing them on small animals.
+
+Its goals were to:
+@itemize[
+	@item{Systematically screen wild animals (bats, birds, rodents etc.) and arthropod vectors (mosquitoes and ticks) carrying viral pathogens.}
+	@item{Investigate the spectrum of viruses carried by major animal hosts and vectors to determine the distribution of natural pathogens in China.}
+	@item{Isolate and identify novel viruses using a biological safety platform.}
+	@item{Conduct basic pathogenic characteristics research on major novel viral pathogens.}
+	@item{Establish a national strategic viral pathogen resource library and shared database, and carry out resource and information sharing services.}
+]
+
+Its assessment indicators were to:
+@itemize[
+	@item{Submit one report on the lineage, genetic characteristics and geographical distribution of viral pathogen carriers such as bats, birds, mosquitoes, rodents and ticks in key regions of China.}
+	@item{Obtain genomes of more than 100 novel viruses / strains.}
+	@item{Isolate, identify, collect and preserve 50 major viral pathogens.}
+	@item{Analyse the pathogenic characteristics of 10 major novel viruses / strains, including at least five major novel viral pathogens, based on a biosecurity risk assessment at the cellular and small animal level.}
+	@item{Establish a standardised viral pathogen resource library and shared database.}
+]
+
+@hyperlink["http://archive.is/TM3wm#selection-601.0-655.50"]{Articles 25-29 in Chapter Five of the State Council's April 2, 2018 scientific data policies} cover relevant measures for strict government control of scientific data and data destruction in such projects.
+
+@section[#:tag "p1"]{The Wuhan CDC and Wuhan Central Hospital}
+
+When discussing his team's December 26 collection of virus samples from Wuhan Central Hospital patients, Professor Zhang Yongzhen of the Shanghai Public Health Clinical Centre said that he was @hyperlink["http://archive.is/BKCK4#selection-153.23-153.92"]{cooperating long-term with both the Wuhan CDC and the Wuhan Central Hospital on the "Scientific survey of the principal natural viral pathogen resources in China" project}. He made these remarks only four days after his lab had been closed for "rectification" the day after first publishing the SARS-CoV-2 sequence.
+
+One of Professor Zhang's team later said that @hyperlink["http://archive.is/OtpxF#selection-685.2-685.151"]{this had been going on for many years}.
+
+The @hyperlink["http://archive.is/WblAw"]{Wuhan CDC had procured pathogenic reagents over September 18-24, 2019}, within days of the project application deadline finishing. This suggests that the contract was awarded swiftly.
+
+The Wuhan CDC's qualifications for such work include a history carrying out @hyperlink["https://pubmed.ncbi.nlm.nih.gov/25633976/"{research into arthropod viruses}. One Wuhan CDC employee was recorded @hyperlink["https://youtu.be/ovnUyTRMERI?t=312"]{extracting a tick from a bat in a documentary broadcast December 10, 2019}.
+
+@section[#:tag "p2"]{The Wuhan Institute of Virology's Viral Pathogen Database}
+
+The WIV had carried out extensive research into viral pathogen vectors and was already running a database very similar to that described in the project description, containing data on arthropod, bat and rodent viruses.
+
+@hyperlink["http://archive.is/HLuio"]{Version 2 of the database was released in June 2019} by the Wuhan Institute for Virology. It improved on other databases like DBatVir by including information on cross-species transmission of viral pathogens among wild animals, based on samples taken by the WIV in the field. This version had a @hyperlink["http://archive.is/Sz1dO#selection-1801.120-1801.269"]{password protected section for its as yet unpublished novel virus sequences}.
+
+Its description was amended significantly in the @hyperlink["http://archive.is/jPPkB"]{update to Version 4 on December 30, 2019}, replacing references to wild animals with those to bats and rodents. Records of Version 3 @hyperlink["http://archive.is/1qyv4"]{appear to have been deleted} and the database is no longer available.
+
+The database had been @hyperlink["http://archive.is/0y56t"]{accessed regularly until September 12, 2019}. Service to @hyperlink["http://archive.is/jE9iy"]{this and other databases} was cut off on this date. It @hyperlink["http://archive.is/cZqCG"]{was reviewed on December 12} during the annual database checkup, but was no longer accessed. Before this, the WIV had @hyperlink["http://archive.is/N606e"]{put a recruitment notice out for an information security officer on July 25, 2019}.
+
+It was built under a @hyperlink["http://archive.is/HLuio/682341a3d7d69aeea79521a94e5b8d7555fc1335.png"]{Chinese Academy of Sciences big data project}. The database was part of a long term effort to investigate the link between bat viruses and vectors. Over 2013-17, the WIV worked on a Ministry of Science and Technology programme @hyperlink["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6178075"]{investigating the main natural virus hosts and vectors in China}.
+
+  @snippet[
+		"Investigation of Viral Pathogen Profiles in Some Natural Hosts and Vectors in China"
+		"February 2018"
+		"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6178075/"
+		"http://archive.is/SSFQp"]{
+		A program for investigating the main natural hosts and vectors in China has been implemented from 2013 to 2017, which involves a team of researchers across twelve institutions in Xinjiang, Qinghai, Hubei, and Yunnan regions. Over the past few years during the implementation of the program, we have collected more than 100,000 samples originating from bats, birds, rodents, ticks, and mosquitoes. We have successfully isolated 181 novel virus strains, and obtained information regarding the spectrum of viral pathogens and the distribution of their vectors within the survey areas. We have also preliminarily established shareable information databases of these viruses, the metagenomic sequencing reads and contigs database, and shareable virus resources pertaining to bats, mosquitoes, and ticks (http://www.viruses.nsdc.cn/chinavpi/)
+  }
+
+Its other qualifications for such a project included @hyperlink["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3318625/"]{research in 2012 into the cross-species transmission of viruses between arthropods and bats}. The sample collection methods in this research were @hyperlink["http://archive.is/jPPkB#selection-1351.69-1361.25"]{the same as those described in the WIV database}. The WIV had also @hyperlink["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5446729/"]{detected betacoronaviruses in rodents in Yunnan} and @hyperlink["https://pubmed.ncbi.nlm.nih.gov/31306679/"]{investigated pathogenic bird viruses}.
+
+@section[#:tag "p3"]{Cooperation}
+
+Based on the experience of both the Wuhan CDC and the WIV relating to arthropod and bat viral pathogens, it is likely that the Wuhan CDC and WIV cooperated on this project. The WIV already had as yet unpublished virus sequences, and both the Wuhan CDC and WIV had experience in researching arthropods and bats.
+
+Both the Wuhan CDC and WIV have BSL-2 facilities, and the WIV continues to use @hyperlink["http://archive.is/Fhvy9#selection-989.124-989.170"{its BSL-2 facility} for SARS-related viral pathogen research.
+
+	@snippet[
+		"Evolutionary arms race between virus and host drives genetic diversity in bat SARS related coronavirus spike genes"
+		"May 14, 2020"
+		"https://www.biorxiv.org/content/10.1101/2020.05.13.093658v1.full"
+		"http://archive.is/FfJ53#selection-2209.0-2209.121"]{
+		All work with the infectious virus was performed under biosafety level 2 conditions with appropriate personal protection.
+	}
+
+However if the WIV had been deeply involved, this would beg the question why Professor Zhang would not name them when discussing the project in the context of the outbreak.
+
+@section[#:tag "p4"]{Conclusion: Highly Likely}
+
+It is clear that the Wuhan CDC, with a branch only 280 meters from the wet market, was involved in a project testing major novel viral pathogens from wild animals including bats on small animals at the time of the outbreak. SARS-CoV-2 samples were then collected from patients in the Wuhan Central Hospital by project team members.
